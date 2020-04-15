@@ -26,12 +26,12 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p8
 
-[''Festival''] (P80.jpg)
+[''Festival''] (P80.JPG)
 
 ## p9
 
-[''Ordinador''] (P9.jpg)
+[''Ordinador''] (P9.JPG)
 
 ## p10
 
-[''Pround de lissitzky''] (P10.jpg)
+[''Pround de lissitzky''] (P10.JPG)
