@@ -6,7 +6,7 @@ Rodet en text. [''Quan tu vas ella torna''](p1.gif)
 
 ## p2
 
-Text extruit amb forma dona. [''Llebeig''](p2.gif)
+Text extruit amb forma dona. [''Llebeig''](P 2.gif)
 
 ## p3
 
