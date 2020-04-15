@@ -22,16 +22,16 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p7
 
-["Vortex"](p7.gif)
+[''Vortex''](p7.gif)
 
 ## p8
 
-["Festival"] (P80.jpg)
+[''Festival''] (P80.jpg)
 
 ## p9
 
-["Ordinador"] (P9.jpg)
+[''Ordinador''] (P9.jpg)
 
 ## p10
 
-["Pround de lissitzky"] (P10.jpg)
+[''Pround de lissitzky''] (P10.jpg)
