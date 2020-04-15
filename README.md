@@ -10,7 +10,7 @@ Text extruit amb forma dona. [''Llebeig''](p2.gif)
 
 ## p3
 
-Text amb rotació. [''volta''](p3.gif)
+Text amb rotació. [''volta''](P3.gif)
 
 ## p4
 
