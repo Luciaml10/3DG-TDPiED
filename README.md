@@ -34,4 +34,5 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p10
 
-[''Pround de lissitzky''] (P10.JPG)
+[''Pround de lissitzky''](p10.jpg).
+
