@@ -38,6 +38,6 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p11
 
-[''mascota''](P11.jpg)
+[''mascota''](p11.jpg)
 
 
