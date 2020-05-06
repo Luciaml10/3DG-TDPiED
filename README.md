@@ -2,7 +2,10 @@
 
 ## p1
 
-Rodet en text. [''Quan tu vas ella torna''](p1.gif)
+Rodet en text. 
+[''Quan tu vas ella torna''](p1.gif)
+[''Quan tu vas ella torna''](p1.MP4)
+ 
 
 ## p2
 
