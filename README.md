@@ -33,7 +33,8 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle.
 
 ## p7
 
-[''Vortex''](p7.gif)
+[''Vortex gif''](p7.gif)
+[''Vortex mp4''](p7.mp4)
 
 ## p8
 
