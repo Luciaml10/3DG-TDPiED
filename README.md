@@ -21,7 +21,9 @@ Text amb rotació.
 
 ## p4
 
-Textures aplicades al moviment de [''full de paper''](p4.gif).
+Textures aplicades al moviment de 
+[''full de paper gif''](p4.gif)
+[''full de paper mp4''](p4.mp4)
 
 ## p5
 
