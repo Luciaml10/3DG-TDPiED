@@ -3,13 +3,14 @@
 ## p1
 
 Rodet en text. 
-[''Quan tu vas ella torna''](p1.gif)
-[''Quan tu vas ella torna''](p1.mp4)
+[''Quan tu vas ella torna gif''](p1.gif)
+[''Quan tu vas ella torna mp4''](p1.mp4)
  
 
 ## p2
 
-Text extruit amb forma dona. [''Llebeig''](P2.gif)
+Text extruit amb forma dona. [''Llebeig gif''](P2.gif)
+Text extruit amb forma dona. [''Llebeig mp4''](p2.mp4)
 
 ## p3
 
