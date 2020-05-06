@@ -53,3 +53,7 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle.
 [''mascota''](p11.jpg)
 
 
+## Extras
+
+
+
