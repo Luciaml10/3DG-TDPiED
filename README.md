@@ -27,7 +27,9 @@ Textures aplicades al moviment de
 
 ## p5
 
-Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és no''](p5.gif)
+Aplicació de textures en cares diferents del cub. Rotació i bucle. 
+[''No és no gif''](p5.gif)
+[''No és no mp4''](p5.mp4)
 
 ## p7
 
