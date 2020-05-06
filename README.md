@@ -56,6 +56,9 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle.
 ## Extras
 
 ### Prueba 1
-[''gif''](prueba1.gif)
-[''mp4'](pueba1.mp4)
+[''prueba 1 gif''](prueba1.gif)
+[''prueba 2 mp4'](pueba1.mp4)
+
+### Prueba 2
+[''prueba 2''](prueba2.jpg)
 
