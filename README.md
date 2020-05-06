@@ -9,8 +9,9 @@ Rodet en text.
 
 ## p2
 
-Text extruit amb forma dona. [''Llebeig gif''](P2.gif)
-Text extruit amb forma dona. [''Llebeig mp4''](p2.mp4)
+Text extruit amb forma dona. 
+[''Llebeig gif''](P2.gif)
+[''Llebeig mp4''](p2.mp4)
 
 ## p3
 
