@@ -62,3 +62,5 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle.
 ### Prueba 2
 [''prueba 2''](prueba2.jpg)
 
+### Prueba 3
+[''prueba 3''](prueba3.jpg)
